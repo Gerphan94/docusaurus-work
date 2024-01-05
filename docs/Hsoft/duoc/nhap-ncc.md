@@ -10,5 +10,5 @@ sidebar_position: 1
 	- b
 	- c
 
-![image](https://github.com/Gerphan94/docusaurus-work/assets/81787710/93e7ff96-20df-41ff-bc96-2a8edafe686f)
+![Alt text](image.png)
 
