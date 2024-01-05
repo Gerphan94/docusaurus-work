@@ -5,7 +5,6 @@ sidebar_position: 1
 # QMS phòng khám
 
 ## Quy trình
-url: http://qmstest.tahospital.vn/feature/arrange
 
 
 ## Step:
