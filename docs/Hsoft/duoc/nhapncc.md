@@ -14,4 +14,3 @@ sidebar_position: 1
 ### Biên bản kiểm nhập
 1. Chọn `5.Báo cáo` >> `5.03.Biên bản` >> `5.03.04 Kiểm nhập lọc theo hóa đơn`
 
-![Menu BBKN](img/menu-bbkn.png)
