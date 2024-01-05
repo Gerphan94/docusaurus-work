@@ -7,9 +7,10 @@ sidebar_position: 1
 ## Step:
 ### Tạo hóa đơn nhà cung cấp
  1. Chọn `1.Nhập kho` >> `1.01 Phiếu nhập kho`
+ 
+- Nhập thông tin hóa đơn NCC: Số hóa đơn NCC, Nhà cung cấp, ...
+- Thêm thuốc vào hóa đơn: Tên thuốc, Số lượng, đơn giá, date (ddMMYY), lô sản xuất
 
-	- Nhập thông tin hóa đơn NCC: Số hóa đơn NCC, Nhà cung cấp, ...
-	- Thêm thuốc vào hóa đơn: Tên thuốc, Số lượng, đơn giá, date (ddMMYY), lô sản xuất
 ![ncc](img/ncc.png)
  
 ### Biên bản kiểm nhập
