@@ -14,5 +14,27 @@ sidebar_position: 2
 
 ![Alt text](img/btn-them-hoten-vao-dv.png)
 
+3. Tại form "Thông tin"Nhập thông tin và Lưu
+
+![Alt text](img/thong-tin.png)
+*Chú ý: Cần đặt trỏ chuột tại ô Mã BN và nhấn Enter để tạo mã BN trước*
+
+Sau khi lưu thành công, thông tin sẽ hiển diện tại DS
+
+![Alt text](img/bn-ds.png)
+
+### Chỉ định Khám sức khoẻ
+1. chọn `3.Đăng ký đoàn` >> `3.03 Chỉ định Khám sức khoẻ `
+
+![Alt text](img/menu-cd-ksk.png)
+
+2. Tại màn hình "Chỉ định khám sức khỏe", 
+- Chọn "Đoàn, đơn vị"
+- Chọn "Họ tên"
+-  Tích "Tiền sử bệnh (Nếu có)"
+- Tích "Phòng khám"
+- Lưu
+
+![Alt text](img/save-cd-ksk.png)
 
 
