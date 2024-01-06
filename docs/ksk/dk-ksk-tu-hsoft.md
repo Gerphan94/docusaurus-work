@@ -2,10 +2,9 @@
 sidebar_position: 2
 ---
 
-# Đăng ký
+# Đăng ký Từ Hsoft
 
-## Từ Hsoft
-### Đăng ký danh sách đoàn
+## Đăng ký danh sách đoàn
 1. Chọn `3. Đăng ký đoàn` >>  `3.02 Đăng ký danh sách đoàn khám sức khỏe`
 
 ![Alt text](img/menu-dk-doan.png)
@@ -24,7 +23,7 @@ Sau khi lưu thành công, thông tin sẽ hiển diện tại DS
 
 ![Alt text](img/bn-ds.png)
 
-### Chỉ định Khám sức khoẻ
+## Chỉ định Khám sức khoẻ
 1. chọn `3.Đăng ký đoàn` >> `3.03 Chỉ định Khám sức khoẻ `
 
 ![Alt text](img/menu-cd-ksk.png)
