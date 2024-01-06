@@ -24,5 +24,9 @@ Sau khi cập nhật thành công, thông tin sẽ hiển thị ở "Theo dõi g
 
 ![Alt text](img/ds-theo-doi.png)
 
-## Thu tạm ứng
+## Thu tạm ứng (tại Hsoft VP)
+1. Vào "Quản lý viện phí", chọn `1.Viện phí` >> `1.04 Thu tạm ứng`
+
+![Alt text](img/menu-tamung.png)
+
 
