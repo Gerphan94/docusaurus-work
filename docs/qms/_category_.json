@@ -1,0 +1,8 @@
+{
+  "label": "QMS",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "QMS hiển thị LCD, điều phối luồng bệnh nhân"
+  }
+}
