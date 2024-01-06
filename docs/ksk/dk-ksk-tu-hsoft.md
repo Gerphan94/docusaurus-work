@@ -17,6 +17,7 @@ sidebar_position: 2
 3. Tại form "Thông tin"Nhập thông tin và Lưu
 
 ![Alt text](img/thong-tin.png)
+
 *Chú ý: Cần đặt trỏ chuột tại ô Mã BN và nhấn Enter để tạo mã BN trước*
 
 Sau khi lưu thành công, thông tin sẽ hiển diện tại DS
@@ -37,4 +38,6 @@ Sau khi lưu thành công, thông tin sẽ hiển diện tại DS
 
 ![Alt text](img/save-cd-ksk.png)
 
+Sau khi lưu thành công, Người khám sức khỏe sẽ hiển thị tại màn hình Khám sức khỏe
 
+![Alt text](img/ds-hien-dien-ksk.png)
