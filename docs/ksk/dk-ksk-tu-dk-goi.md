@@ -29,27 +29,4 @@ Sau khi cập nhật thành công, thông tin sẽ hiển thị ở "Theo dõi g
 
 ![Alt text](img/menu-tamung.png)
 
-2. Nhập mã bệnh nhân để lấy thông tin người thu, chọn "Lưu và in" và tiến hành thu tạm ứng
-
-![Alt text](img/thu-tu.png)
-
-3. Lúc này thông tin người khám sức khỏe sẽ là "Đã tạm ứng"
-
-![Alt text](img/ds-theo-doi-2.png)
-
-## Checking tại QMS điều phối
-1. Truy cập vào [QMS điều phối](http://qmstest.tahospital.vn/feature/arrange)
-2. Tại màn hình điều phối:
-- Nhập mã người khám sức khỏe
-- Chọn phòng khám cho các công khám thiếu phòng khám
-- Tích các chi tiết trong gói
-- Chọn "Đăng ký HSOFT"
-
-![Alt text](img/dk-hsoft.png)
-
-3. Sau khi đăng ký, khách hàng sẽ hiển thị tại màn hình "Khám sức khỏe"
-
-![Alt text](img/ds-hien-dien-ksk-2.png)
-
-
 
