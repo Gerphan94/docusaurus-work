@@ -9,9 +9,10 @@ sidebar_position: 1
 ## Step:
 ### Tiếp nhận bệnh nhân BHYT
 1. Chọn `4.Khám bệnh` >> `4.15 Đăng ký khám bệnh mới`
+
 ![image](https://github.com/Gerphan94/docusaurus-work/assets/81787710/f029c312-6db5-4f18-87a4-ee9e42c3ac88)
 
-2. Tại màn hình Tiếp nhận:
+3. Tại màn hình Tiếp nhận:
    - Nhập thông tin Bệnh nhân
    - Nhập thông tin thẻ BHYT
    - Thêm Phòng khám
