@@ -9,7 +9,7 @@ sidebar_position: 13
 
 ## Step:
 Điều kiện: Bệnh nhân cần cấp toa nhà thuốc
-
+### Phiếu bán thuốc
 1. Chọn `2.Xuất kho` >> `2.30 Phiếu xuất bán` >> Cho "Kho làm việc"
 
 ![Alt text](img/menu-phieu-ban-thuoc.png)
@@ -24,3 +24,13 @@ sidebar_position: 13
 Như vậy đã hoàn thành phiếu xuất bán
 
 ![Alt text](image.png)
+
+### Xác nhận phát thuốc
+
+1. Chọn `2.Xuất kho` >> `2.33 Đánh dấu phát nhà thuốc` >> Chọn Khoảng thời gian
+
+![Alt text](img/menu-danh-dau-phat-nt.png)
+
+2. Tích vào BN cần phát và chọn `Lưu`
+
+![Alt text](img/xac-nhan-phat-nt.png)
