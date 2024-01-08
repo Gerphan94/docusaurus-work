@@ -23,8 +23,6 @@ sidebar_position: 13
 
 Như vậy đã hoàn thành phiếu xuất bán
 
-![Alt text](image.png)
-
 ### Xác nhận phát thuốc
 
 1. Chọn `2.Xuất kho` >> `2.33 Đánh dấu phát nhà thuốc` >> Chọn Khoảng thời gian
