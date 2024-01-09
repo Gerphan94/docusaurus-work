@@ -5,6 +5,6 @@ authors: []
 tags: [docusaurus]
 ---
 
-### Đặt lịch
+### CAS V2 - Đặt hẹn - HCM
 - URL: [http://172.20.9.17:6007/](http://172.20.9.17:6007/)
-- User/Pass: tadev/12345678
+- User/Pass: `tadev`/`12345678`
