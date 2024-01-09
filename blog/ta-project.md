@@ -13,3 +13,7 @@ tags: [docusaurus]
 - Url: [http://qmstest.tahospital.vn/feature/arrange](http://qmstest.tahospital.vn/feature/arrange)
 - User/Pass: `bamso` / `1`
 - Url (LCD): [http://qmstest.tahospital.vn/tv](http://qmstest.tahospital.vn/tv)
+
+### 31.Quản lý nội trú
+- Url: [http://172.20.80.11:6015/](http://172.20.80.11:6015/)
+- User/Pass: hungvd/123456
