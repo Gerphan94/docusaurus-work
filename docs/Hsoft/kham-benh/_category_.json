@@ -1,6 +1,6 @@
 {
-  "label": "Dược",
-  "position": 10,
+  "label": "Khám bệnh",
+  "position": 2,
   "link": {
     "type": "generated-index"
   }
