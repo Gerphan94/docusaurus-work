@@ -5,7 +5,10 @@ sidebar_position: 1
 # Hoàn hóa đơn
 
 ## Step:
-1. 
+### Hoàn trả phiếu
+1. Chọn `1.Viện phí` >> `1.08 Hoàn trả hóa đơn`
+
+![Alt text](img/hoan-hd-menu.png)
 
 2. Tại màn hình "Hoàn trả hóa đơn":
 - Nhập mã bệnh nhân
@@ -19,3 +22,8 @@ sidebar_position: 1
 Sau khi hoàn thành công, danh sách sẽ hiện diện
 
 ![Alt text](img/hoan-hd_ds-da-hoan.png)
+
+### Phục hồi phiếu hoàn tra
+Chọn Phiếu cần phục hồi, chọn `Phục hồi` >> xác nhận
+
+![Alt text](img/hoan-hd_phuc-hoi-phieu-ht.png)
