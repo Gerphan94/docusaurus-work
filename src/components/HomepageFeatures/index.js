@@ -52,27 +52,15 @@ const ProjectList = [
 
 function Project({ title, url, account, note }) {
   return (
-    <div className={styles.projectCard}>
-      <div className={styles.header}></div>
-      <div>{title}</div>
-      <div className={styles.footer}>
-        <a href={url}>{url}</a>
+    <a href={url}>
+      <div className={styles.projectCard}>
+        <div className={styles.header}></div>
+        <div>{title}</div>
+        <div className={styles.footer}>
+          <a href={url}>{url}</a>
+        </div>
       </div>
-    </div>
-  );
-}
-
-function Feature({ Svg, title, description }) {
-  return (
-    <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
+    </a>
   );
 }
 
