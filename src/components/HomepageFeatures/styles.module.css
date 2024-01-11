@@ -9,3 +9,10 @@
   height: 200px;
   width: 200px;
 }
+
+.projectCard {
+  height: 200px;
+  width: 200px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}

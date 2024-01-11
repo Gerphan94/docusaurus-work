@@ -35,6 +35,33 @@ const FeatureList = [
   },
 ];
 
+
+const ProjectList = [
+  {
+    'title':'CAS V2 - Đặt hẹn - HCM',
+    'url': 'http://172.20.9.17:6007/',
+    'account':'tadev/12345678',
+    'note':''
+  },
+  {
+    'title':'QMS - Điều phối - HCM',
+    'url': 'http://qmstest.tahospital.vn/feature/arrange',
+    'account':'bamso / 1',
+    'note':'Url (LCD): http://qmstest.tahospital.vn/tv'
+  }
+]
+
+function Project({title, url, account, note}) {
+  return (
+    <div className={styles.projectCard}>
+      <div>{title}</div>
+      <a>{url}</a>
+    </div>
+  )
+}
+
+
+
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
@@ -54,8 +81,12 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
+          {/* {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
+          ))} */}
+
+          {ProjectList.map((project, idx) => (
+            <Project key={idx} {...project}/>
           ))}
         </div>
       </div>
