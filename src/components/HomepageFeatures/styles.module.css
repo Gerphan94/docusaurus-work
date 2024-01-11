@@ -9,6 +9,7 @@
   display: grid;
   gap: 15px;
   width: 100%;
+  padding: 20px;
 }
 
 .featureSvg {
@@ -34,4 +35,18 @@
 .projectCard .footer {
   height: 60px;
   background-color: #f8f7fc;
+}
+
+
+@media (min-width: 1200px) {
+  .projects {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+
+@media (min-width: 768px) {
+  .projects {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }

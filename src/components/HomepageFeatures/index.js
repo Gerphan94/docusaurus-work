@@ -78,16 +78,10 @@ function Feature({ Svg, title, description }) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.projects}>
-     
-          {/* {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))} */}
-
-          {ProjectList.map((project, idx) => (
-            <Project key={idx} {...project} />
-          ))}
-      
-    </section>
+    <div className={styles.projects}>
+      {ProjectList.map((project, idx) => (
+        <Project key={idx} {...project} />
+      ))}
+    </div>
   );
 }
