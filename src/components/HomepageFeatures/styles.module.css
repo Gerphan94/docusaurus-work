@@ -1,20 +1,12 @@
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
-}
 
 .projects {
+  max-width: 1460px;
+  margin: 0 auto 100px;
   display: grid;
   gap: 15px;
   padding: 20px;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
-}
 
 .projectCard {
   display: flex;
