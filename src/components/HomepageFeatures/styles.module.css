@@ -27,9 +27,18 @@
   background-color: #102e9e;
 }
 
+.projectCard .title {
+  font-size: 14pt;
+  color: #000;
+}
+
 .projectCard .footer {
   height: 60px;
   background-color: #f8f7fc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
 }
 
 
