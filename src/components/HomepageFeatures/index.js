@@ -79,8 +79,7 @@ function Feature({ Svg, title, description }) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.projects}>
-      <div className="container">
-        <div className="row">
+     
           {/* {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))} */}
@@ -88,8 +87,7 @@ export default function HomepageFeatures() {
           {ProjectList.map((project, idx) => (
             <Project key={idx} {...project} />
           ))}
-        </div>
-      </div>
+      
     </section>
   );
 }
