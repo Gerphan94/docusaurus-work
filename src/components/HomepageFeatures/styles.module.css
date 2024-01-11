@@ -18,10 +18,12 @@
 }
 
 .projectCard {
+  display: flex;
+  justify-content: space-between;
   height: 200px;
   width: 400px;
-  border: 1px solid #000;
   border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
 .projectCard .header {
@@ -31,4 +33,5 @@
 
 .projectCard .footer {
   height: 60px;
+  background-color: #f8f7fc;
 }
