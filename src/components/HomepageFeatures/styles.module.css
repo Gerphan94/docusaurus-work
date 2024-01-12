@@ -26,7 +26,7 @@
   transform: translateY(-10px);
 }
 
-.cardBox:hover .cardBody {
+.cardBox:hover .cardMain.cardBody {
   text-decoration: none;
 }
 
