@@ -7,6 +7,25 @@
   padding: 40px;
 }
 
+.flexColumn {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.cardBox {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardHeader {
+  height: 60px;
+  background-color: #102e9e;
+}
+
+.cardBody {
+  height: 60px;
+}
 
 .projectCard {
   display: flex;

@@ -53,17 +53,16 @@ const ProjectList = [
 function Project({ title, url, account, note }) {
   return (
     <>
-    <a href={url} className={styles.projectCard} target="_blank">
-      <div className={styles.header}></div>
-      <div className={styles.title}>{title}</div>
-
-      
-    </a>
-    <div className={styles.footer}>
-        {url}
+      <div className={styles.cardBox}>
+        <a href={url} className={styles.flexColumn} target="_blank">
+          <div className={styles.cardHeader}></div>
+          <div className={styles.cardBody}>
+            <div className={styles.title}>{title}</div>
+          </div>
+        </a>
+        <div className={styles.footer}>{url}</div>
       </div>
     </>
-    
   );
 }
 
