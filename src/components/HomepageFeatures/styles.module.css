@@ -22,7 +22,6 @@
 }
 
 .cardBox:hover {
-  text-decoration: none!important;
   transform: translateY(-10px);
 }
 
@@ -36,6 +35,10 @@
   justify-content: space-between;
   flex-direction: column;
   cursor: pointer;
+}
+
+.cardMain:hover {
+  text-decoration: none;
 }
 
 .cardHeader {
