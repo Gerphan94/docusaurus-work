@@ -22,7 +22,7 @@
 }
 
 .cardBox:hover {
-  text-decoration: none;
+  text-decoration: none!important;
   transform: translateY(-10px);
 }
 
