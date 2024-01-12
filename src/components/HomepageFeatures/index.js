@@ -54,7 +54,7 @@ function Project({ title, url, account, note }) {
   return (
     <>
       <div className={styles.cardBox}>
-        <a href={url} className={styles.flexColumn} target="_blank">
+        <a href={url} className={styles.cardMain} target="_blank">
           <div className={styles.cardHeader}></div>
           <div className={styles.cardBody}>
             <div className={styles.title}>{title}</div>
