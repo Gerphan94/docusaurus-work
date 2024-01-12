@@ -50,8 +50,6 @@
 
 }
 
-
-
 .cardBody {
   display: flex;
   flex-direction: column;
@@ -64,7 +62,7 @@
 
 }
 
-.cardBody::after {
+.cardMain::after {
   position: absolute;
   content: "";
   width: 111px;
