@@ -69,7 +69,7 @@ const ProjectList = [
 function Project({ title, url, account }) {
   return (
     <>
-      <div className={styles.cardBox}>
+      <section style="background-color:#102E9E">
         <a href={url} className={styles.cardMain} target="_blank">
           <div className={styles.cardHeader}></div>
           <div className={styles.cardBody}>{title}</div>
@@ -78,7 +78,7 @@ function Project({ title, url, account }) {
           <div>{url}</div>
           <div>Account: {account}</div>
         </div>
-      </div>
+      </section>
     </>
   );
 }
