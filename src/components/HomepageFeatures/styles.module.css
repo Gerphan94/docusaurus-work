@@ -21,7 +21,7 @@
 }
 .projectCard:hover {
   text-decoration: none;
-  transform: translateY(-20px);
+  transform: translateY(-10px);
 }
 
 .projectCard .header {
