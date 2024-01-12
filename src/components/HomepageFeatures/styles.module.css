@@ -52,6 +52,7 @@
 
 .cardBody {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   height: calc(100%-60px);
   font-size: 14pt;
