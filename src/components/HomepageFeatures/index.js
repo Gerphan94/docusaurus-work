@@ -40,27 +40,26 @@ const ProjectList = [
     title: "CAS V2 - Đặt hẹn - HCM",
     url: "http://172.20.9.17:6007/",
     account: "tadev/12345678",
-    note: "",
   },
   {
     title: "QMS - Điều phối - HCM",
     url: "http://qmstest.tahospital.vn/feature/arrange",
     account: "bamso / 1",
-    note: "Url (LCD): http://qmstest.tahospital.vn/tv",
   },
 ];
 
-function Project({ title, url, account, note }) {
+function Project({ title, url, account }) {
   return (
     <>
       <div className={styles.cardBox}>
         <a href={url} className={styles.cardMain} target="_blank">
           <div className={styles.cardHeader}></div>
-          <div className={styles.cardBody}>
-            <div className={styles.title}>{title}</div>
-          </div>
+          <div className={styles.cardBody}>{title}</div>
         </a>
-        <div className={styles.footer}>{url}</div>
+        <div className={styles.footer}>
+          <div>{url}</div>
+          <div>{account}</div>
+        </div>
       </div>
     </>
   );
