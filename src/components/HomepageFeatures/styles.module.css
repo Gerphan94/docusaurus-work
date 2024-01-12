@@ -21,12 +21,12 @@
 }
 
 .cardBox:hover {
-  text-decoration: none;
   transform: translateY(-10px);
 }
 
+
 .cardMain {
-  height: 160px;
+  height: 140px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -43,6 +43,8 @@
 
 .cardBody {
   height: 60px;
+  text-decoration: none;
+
 }
 
 .header {
@@ -58,7 +60,7 @@
 }
 
 .footer {
-  height: 40px;
+  height: 60px;
   background-color: #f8f7fc;
   display: flex;
   flex-direction: column;
