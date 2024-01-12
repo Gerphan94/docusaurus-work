@@ -12,6 +12,7 @@
 .cardBox {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
@@ -25,6 +26,7 @@
 }
 
 .cardMain {
+  height: 160px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -34,6 +36,9 @@
 .cardHeader {
   height: 60px;
   background-color: #102e9e;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+
 }
 
 .cardBody {
