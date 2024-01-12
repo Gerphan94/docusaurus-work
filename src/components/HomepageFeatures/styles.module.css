@@ -52,7 +52,7 @@
 
 .cardBody {
   
-  height: calc(100%-60px)
+  height: calc(100%-60px);
   font-size: 14pt;
   font-weight: 600;
   color: #000;
