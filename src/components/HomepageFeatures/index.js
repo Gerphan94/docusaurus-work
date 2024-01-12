@@ -46,6 +46,24 @@ const ProjectList = [
     url: "http://qmstest.tahospital.vn/feature/arrange",
     account: "bamso / 1",
   },
+  {
+  title: "26. Quản lý gói khám",
+    url: "http://172.20.9.17:6023",
+    account: "duc / 123",
+  },
+  {
+    title: "27. Khám sức khỏe",
+    url: "http://172.20.9.17:6019",
+    account: "duc / 123",
+  },
+  {
+    title: "27. Quản lý Voucher",
+    url: "http://172.20.9.17:6012/",
+    account: "duc / 123",
+  }
+
+  
+
 ];
 
 function Project({ title, url, account }) {
@@ -58,7 +76,7 @@ function Project({ title, url, account }) {
         </a>
         <div className={styles.footer}>
           <div>{url}</div>
-          <div>{account}</div>
+          <div>Account: {account}</div>
         </div>
       </div>
     </>

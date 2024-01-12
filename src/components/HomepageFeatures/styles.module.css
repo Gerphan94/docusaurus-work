@@ -25,9 +25,9 @@
   transform: translateY(-10px);
 }
 
-.cardBox:hover .cardMain.cardBody {
+/* .cardBox:hover .cardMain.cardBody {
   text-decoration: none;
-}
+} */
 
 .cardMain {
   height: 140px;
