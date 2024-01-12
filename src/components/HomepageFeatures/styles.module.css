@@ -74,6 +74,10 @@
   font-size: 9pt;
 }
 
+.footer:hover {
+  cursor: auto ;
+}
+
 
 
 @media (min-width: 1200px) {
