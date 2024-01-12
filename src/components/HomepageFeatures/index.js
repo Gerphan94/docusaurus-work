@@ -52,13 +52,18 @@ const ProjectList = [
 
 function Project({ title, url, account, note }) {
   return (
+    <>
     <a href={url} className={styles.projectCard} target="_blank">
       <div className={styles.header}></div>
       <div className={styles.title}>{title}</div>
-      <div className={styles.footer}>
-        <a href={url}>{url}</a>
-      </div>
+
+      
     </a>
+    <div className={styles.footer}>
+        {url}
+      </div>
+    </>
+    
   );
 }
 
