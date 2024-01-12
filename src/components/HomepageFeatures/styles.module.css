@@ -50,6 +50,8 @@
 
 }
 
+
+
 .cardBody {
   display: flex;
   flex-direction: column;
@@ -60,6 +62,18 @@
   color: #000;
   padding-left: 20px;
 
+}
+
+.cardBody::after {
+  position: absolute;
+  content: "";
+  width: 111px;
+  height: 52px;
+  background-image: url(https://sites.tahospital.vn/css/vector.svg);
+  background-position: top center;
+  top: 13px;
+  left: 0px;
+}
 }
 
 .header {
