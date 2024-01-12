@@ -24,6 +24,9 @@
   transform: translateY(-10px);
 }
 
+.cardBox:hover .cardBody {
+  text-emphasis: none;
+}
 
 .cardMain {
   height: 140px;
@@ -43,7 +46,10 @@
 
 .cardBody {
   height: 60px;
-  text-decoration: none;
+  font-size: 14pt;
+  font-weight: 600;
+  color: #000;
+  padding-left: 20px;
 
 }
 
@@ -52,12 +58,6 @@
   background-color: #102e9e;
 }
 
-.title {
-  font-size: 14pt;
-  font-weight: 600;
-  color: #000;
-  padding-left: 20px;
-}
 
 .footer {
   height: 60px;
