@@ -87,30 +87,6 @@
   text-decoration: none;
 }
 
-.cardHeader {
-  height: 60px;
-  background-color: #102e9e;
-  border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
-}
-
-.cardBody {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: calc(100%-60px);
-  font-size: 14pt;
-  font-weight: 600;
-  color: #000;
-  padding-left: 20px;
-}
-
-
-
-.header {
-  height: 60px;
-  background-color: #102e9e;
-}
 
 .footer {
   height: 60px;
