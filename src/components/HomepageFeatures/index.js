@@ -36,10 +36,12 @@ const ProjectList = [
 function Project({ title, url, account }) {
   return (
     <>
-      <section style="background-color:#102E9E">
-        <a href={url} className={styles.cardMain} target="_blank">
-          <div className={styles.cardHeader}></div>
-          <div className={styles.cardBody}>{title}</div>
+      <section >
+        <a href={url} target="_blank">
+          <span className={styles.logo}>
+
+          </span>
+          <div className={styles.club}>{title}</div>
         </a>
         <div className={styles.footer}>
           <div>{url}</div>

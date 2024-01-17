@@ -1,14 +1,13 @@
 .projects {
-  max-width: 1920px;
-  margin: 0 auto 100px;
+  margin: 0 200px;
   gap: 20px;
-  padding: 40px;
   display: grid;
+  margin-bottom: 100px;
   grid-template-columns: repeat(1, 1fr);
 }
 
 .projects section {
-  width: calc(25% - 33px);
+  background-color: #102e9e;
   display: inline-block;
   margin: 15px;
   padding-top: 40px;
@@ -22,6 +21,29 @@
 .projects section:hover {
   box-shadow: rgba(45, 45, 45, 0.05) 0px 2px 2px, rgba(49, 49, 49, 0.05) 0px 4px 4px, rgba(42, 42, 42, 0.05) 0px 8px 8px, rgba(32, 32, 32, 0.05) 0px 16px 16px, rgba(49, 49, 49, 0.05) 0px 32px 32px, rgba(35, 35, 35, 0.05) 0px 64px 64px;
     transform: translate(0, -4px);
+  
+}
+
+.projects section:hover a {
+  text-decoration: none;
+}
+
+.projects section a .logo {
+  background-image: url(https://sites.tahospital.vn/images/tah.jpg);
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  display: block;
+  border-radius: 21px;
+  /* border: 1px solid #E2E8F0; */
+  top: 17px;
+  left: 34px;
+  z-index: 5;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  padding: 10px;
 }
 
 
@@ -29,15 +51,39 @@
   text-decoration: none;
 } */
 
-.cardMain {
+/* .projects section a {
   height: 140px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
   cursor: pointer;
+} */
+
+.club {
+  min-height: 80px;
+  display: flex;
+  flex-direction: row;
+  background: white;
+  text-align: left;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 20px;
+  font-weight: 600;
 }
 
-.cardMain:hover {
+
+.club::after {
+  position: absolute;
+  content: "";
+  width: 111px;
+  height: 52px;
+  background-image: url(https://sites.tahospital.vn/css/vector.svg);
+  background-position: top center;
+  top: 13px;
+  left: 0px;
+}
+
+.club:hover {
   text-decoration: none;
 }
 
@@ -59,16 +105,7 @@
   padding-left: 20px;
 }
 
-.cardMain::after {
-  position: absolute;
-  content: "";
-  width: 111px;
-  height: 52px;
-  background-image: url(https://sites.tahospital.vn/css/vector.svg);
-  background-position: top center;
-  top: 13px;
-  left: 0px;
-}
+
 
 .header {
   height: 60px;
@@ -100,3 +137,4 @@
     grid-template-columns: repeat(3, 1fr);
   }
 }
+
