@@ -1,5 +1,5 @@
 .projects {
-  margin: 0 200px;
+  margin: 0 20px;
   gap: 20px;
   display: grid;
   margin-bottom: 100px;
@@ -105,11 +105,15 @@
 @media (min-width: 1200px) {
   .projects {
     grid-template-columns: repeat(3, 1fr);
+    margin: 0 200px;
+
   }
 }
 
 @media (min-width: 768px) {
   .projects {
     grid-template-columns: repeat(2, 1fr);
+    margin: 0 200px;
+
   }
 }
