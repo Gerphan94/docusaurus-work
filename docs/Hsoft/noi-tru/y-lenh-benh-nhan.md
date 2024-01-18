@@ -57,3 +57,23 @@ Tại màn hình chỉ định dịch vụ chọn button `F6 Liệt kê` >> tìm
 5. Nhấn `F5 Lưu` để hoàn thành toa thuốc
 
 ![Alt text](img/dtrv_ke-toa-nha-thuoc.png)
+
+## Tường trình PTTT
+### Làm tường trình PTTT
+1. Chỉ định dịch vụ Phẫu thuật, thủ thuật cho Bệnh nhân
+2. Chọn Bệnh nhân >> chọn `F6 Phẫu thuật, thủ thuật` hoặc `Nhập thủ thuật`
+
+![Alt text](img/pttt/pttt-menu.png)
+
+### Các cấu hình
+#### Cấu hình mẫu tường trình PTTT
+
+1. Vào `7.Nội trú` >> `7.07. Phẫu thuật, thủ thuât` >> `7.07.04. Tường trình phẫu thuật, thủ thuật theo tên`
+
+![Alt text](img/pttt/pttt_mau-tt-menu.png)
+
+2. Nhập các thông tin và lưu
+
+![Alt text](img/pttt/pttt_mau-chi-tiet.png)
+
+*Chú ý: Tên mẫu sẽ là tên 'Phương pháp thực tế' khi làm tường trình*
