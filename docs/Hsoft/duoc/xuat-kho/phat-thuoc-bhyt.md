@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Phát thuốc BHYT
 ## Quy trình
-Tiếp nhận BHYT >> Khám BHYT >> Cấp toa BHYT >> Duyệt BHYT >> Thanh toán viện phí >> `Phát thuốc`
+Tiếp nhận BHYT >> Khám BHYT >> Cấp toa BHYT >> Duyệt BHYT >> Thanh toán viện phí >> **`Phát thuốc`**
 
 ## Step:
 

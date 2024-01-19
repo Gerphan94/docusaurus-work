@@ -21,4 +21,4 @@ sidebar_position: 2
 
 2. Chọn kho >> Tìm >> Chọn Biên bản >> Kiểm nhập
 
-![Biên bản kiểm nhập](img/bbnt.png)
+![Biên bản kiểm nhập](img/bbkn.png)
