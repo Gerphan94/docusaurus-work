@@ -10,7 +10,7 @@ const ProjectList = [
   },
   {
     title: "QMS - Điều phối - HCM",
-    url: "http://qmstest.tahospital.vn/feature/arrange",
+    url: "http://qmstest.tahospital.vn:3000/feature/arrange",
     account: "bamso / 1",
   },
   {
