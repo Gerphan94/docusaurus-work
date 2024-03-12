@@ -2,11 +2,11 @@
 sidebar_position: 11
 ---
 
-# Phát thuốc BHYT
-## Quy trình
+# Phát/Hủy phát thuốc BHYT
+## Phát thuốc BHYT
+### Quy trình
 Tiếp nhận BHYT >> Khám BHYT >> Cấp toa BHYT >> Duyệt BHYT >> Thanh toán viện phí >> **`Phát thuốc`**
-
-## Step:
+### Step:
 
 _Điều kiện BN cần hoàn tất thanh toán viện phí_
 
@@ -23,3 +23,10 @@ _Điều kiện BN cần hoàn tất thanh toán viện phí_
 ![image](https://github.com/Gerphan94/docusaurus-work/assets/81787710/8715a8f1-e6c1-4de2-8782-73f6f41d939c)
 
 Như vậy, đã hoàn thành phát thuốc cho Bệnh nhân BHYT
+## Hủy phát thuốc BHYT
+### Quy trình
+Tiếp nhận BHYT >> Khám BHYT >> Cấp toa BHYT >> Duyệt BHYT >> Thanh toán viện phí >> Phát thuốc >> **`Hủy Phát thuốc`**
+### Step:
+Tương tự như Phát thuốc, tại màn hình phát, tích vào checkbox `Đã phát` >> Bỏ tích phiếu muốn hoàn phát >> chọn `Lưu`
+![Alt text](./img/baohiem_phatthuoc_huy-phat-thuoc.png)
+Như vậy, đã hoàn thành hủy phát thuốc cho Bệnh nhân BHYT

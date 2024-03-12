@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Hoàn hóa đơn
 
+## Mô tả:
+Hoàn lại các hóa đơn, phiếu thu đã tạo
 ## Step:
 ### Hoàn trả phiếu
 1. Chọn `1.Viện phí` >> `1.08 Hoàn trả hóa đơn`
