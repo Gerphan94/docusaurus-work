@@ -61,5 +61,6 @@ Lúc này BN sẽ hiện diện tại Phòng khám
 
 ![alt text](./img/khambenh/kb-bngoikham-chontrongoi-chon.png)
 
-Như vậy là hoàn tất quy trình tiếp nhận khám gói
+Như vậy là hoàn tất quy trình tiếp nhận khám gói,
+Trường hợp gói còn lượt sử dụng, Bác sĩ có thể xử trí hẹn và "Chỉ định dịch vụ" chọn `Chọn trọn gói`
 
